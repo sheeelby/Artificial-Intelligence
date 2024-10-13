@@ -16,7 +16,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/username/project_name.git
+    git clone https://github.com/sheeelby/MachineLearning.git
     ```
 2. Перейдите в директорию проекта:
     ```bash
