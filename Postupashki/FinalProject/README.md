@@ -20,7 +20,7 @@
     ```
 2. Перейдите в директорию проекта:
     ```bash
-    cd project_name
+    cd Postupashki/FinalProject
     ```
 3. Установите необходимые зависимости:
     ```bash
