@@ -9,4 +9,4 @@
 - Большие языковые модели и где они обитают.
 - Введение в обработку звука: голосовая активация, биометрия, распознавание речи.
 
-![image](file:///C:/Users/Admin/Downloads/Telegram%20Desktop/5a1a1d23-7f3b-4321-8485-3fc5146247f4.pdf)
+![image](https://github.com/sheeelby/Artificial-Intelligence/blob/main/Young%26%26Yandex-NLP/certificate.pdf)
