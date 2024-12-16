@@ -11,6 +11,4 @@
 - Большие языковые модели и где они обитают.
 - Введение в обработку звука: голосовая активация, биометрия, распознавание речи.
 
-<p align="center">
- <img width="200px" src="certificate.pdf" alt="qr"/>
-</p>
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvk.com%2Fyoung_and_yandex&psig=AOvVaw0K8l1FjQdCfp9QiCIHgdbq&ust=1734450529276000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMj6w_PRrIoDFQAAAAAdAAAAABAE)
