@@ -9,4 +9,4 @@
 - Большие языковые модели и где они обитают.
 - Введение в обработку звука: голосовая активация, биометрия, распознавание речи.
 
-![image](Young&&Yandex-NLP/certificate.pdf)
+![image](/Young&&Yandex-NLP/certificate.pdf)
