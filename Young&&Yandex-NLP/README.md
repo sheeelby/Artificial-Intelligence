@@ -12,5 +12,5 @@
 - Введение в обработку звука: голосовая активация, биометрия, распознавание речи.
 
 <p align="center">
- <img width="200px" src="certificate.png" alt="qr"/>
+ <img width="200px" src="certificate.pdf" alt="qr"/>
 </p>
