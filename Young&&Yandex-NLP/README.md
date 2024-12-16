@@ -11,6 +11,6 @@
 
 **Сертификат о прохождении тренировок:**
 
-<p align="center">
+<p align="left">
  <img width="500px" src="https://github.com/user-attachments/assets/48023495-c22a-4802-ab50-ce4d71bf5918" alt="qr"/>
 </p>
